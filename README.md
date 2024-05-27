@@ -1,4 +1,4 @@
-### Bias in Mortgage Lending - DSCI 531 Spring 2024
+### Bias in Mortgage Lending
 
 #### Introduction
 This project aims to investigate bias in mortgage lending practices using the Loan Application Register dataset for the year 2020. With 6 million rows and 99 columns covering various attributes such as loan details, borrower demographics, property characteristics, and approval outcomes, we seek to understand the factors influencing loan denial and assess any underlying biases.
