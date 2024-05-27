@@ -3,6 +3,10 @@
 #### Introduction
 This project aims to investigate bias in mortgage lending practices using the Loan Application Register dataset for the year 2020. With 6 million rows and 99 columns covering various attributes such as loan details, borrower demographics, property characteristics, and approval outcomes, we seek to understand the factors influencing loan denial and assess any underlying biases.
 
+### Dataset: 
+https://ffiec.cfpb.gov/data-publication/snapshot-national-loan-level-dataset/2020
+https://drive.google.com/drive/folders/1PU_dOnsjxaUn2_csBGJAanW6SPVwd1W_?usp=sharing
+
 #### Data Exploration and Preprocessing
 Through meticulous data cleaning and preprocessing, we prepare the dataset for analysis. This involves removing irrelevant columns, categorizing features such as debt-to-income ratio and applicant's race, and transforming continuous variables like income and loan values through logarithmic transformations.
 
@@ -18,7 +22,3 @@ To mitigate biases in loan approval predictions, we implement post-processing te
 #### Conclusion
 This project contributes to discussions on fair lending practices and algorithmic fairness in mortgage lending. By uncovering and addressing biases in loan approval processes, we strive to promote fairer and more equitable lending practices in the mortgage industry, ultimately aiming to reduce disparities and promote financial inclusion.
 
-
-### Dataset: 
-https://ffiec.cfpb.gov/data-publication/snapshot-national-loan-level-dataset/2020
-https://drive.google.com/drive/folders/1PU_dOnsjxaUn2_csBGJAanW6SPVwd1W_?usp=sharing
